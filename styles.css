@@ -70,7 +70,17 @@ button:hover {
     margin-bottom: 10px;
 }
 
+#rickroll p {
+    font-size: 1.2em;
+    color: #555;
+    margin-top: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
 #rickroll-link {
+    display: inline-block;
+    margin-top: 20px;
     font-size: 1.2em;
     color: #1a73e8;
     text-decoration: none;
